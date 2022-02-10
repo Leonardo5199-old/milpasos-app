@@ -44,7 +44,7 @@
     "@fullcalendar/interaction": "4.0.2",
     "@fullcalendar/timegrid": "4.0.1",
     "sass-loader": "^7.0.1",
-    "node-sass": "^4.9.0"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {
     "bootstrap-vue": "^2.0.0-rc.24"
